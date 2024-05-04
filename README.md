@@ -3,7 +3,7 @@
     .
     ├── Week1                              # Focus on Intro to LLMs, generative AI project lifecycle, and LLM pre-training + scaling laws.
     │   ├── images 		                     # Folder containing images used in the Lab 1 jupyter notebook.
-    │   ├── Lab_1_summarize_dialogue.ipynb # Notebook focusing on learning prompt engineering while using pre-trained FLAN-T5 model and the DialogSum dataset from   │   │                                  # hugging face. 	  		  			             
+    │   ├── Lab_1_summarize_dialogue.ipynb # Prompt engineering for Text Summarization using pre-trained FLAN-T5 model on the DialogSum dataset from hugging face.
     │   └── W1-2.pdf                       # lecture slides for week 1 from the course.
     │   
     ├── Week2                              # Focus on Fine-Tuning LLMs
